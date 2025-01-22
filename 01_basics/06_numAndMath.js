@@ -71,3 +71,13 @@ console.log(balance.toFixed(2));
 const  num = 100000
 
 console.log(num.toLocaleString('en-IN'));
+//_________maths________
+console.logm(math.abs(-3));//  gives positib=ve value
+console.log(math.round(5.3));// round of
+
+console.log(math.random());// gives value in arsng of 0 and 1 
+
+//  ge rati g number between two numbers
+
+ let x= math.floor(math.random()*(max- min)+min)+1
+ // x wwill genrate a no. between max and min and both max and min will be included
